@@ -17,6 +17,10 @@
   <img alt="calendario da copa" src="github/preview.png" width="100%">
 </p>
 
+## link do projeto 
+
+🔗 [Clique aqui para acessar](https://pedronovais.github.io/nutricionista/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
